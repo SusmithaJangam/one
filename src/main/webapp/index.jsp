@@ -3,17 +3,13 @@
 
 </head>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
-	<h1 style="color: yellow; font-size: 40px;" align="center">Today i learnt maven deployment</h1>
-         <h1 style="color: orange; font-size: 40px;" align="center">welcome to flm</h1>
-         <h1 style="color: orange; font-size: 40px;" align="center">maven_Project</h1>
-         <h1 style="color: blue; font-size: 40px;" align="center">Nexus integration</h1>
-         <h1 style="color: black; font-size: 40px;" align="center">we done Nexus integration also</h1>
-         <h1 style="color: black; font-size: 40px;" align="center">finally i learntdone Nexus integration</h1>
-
+	<h1 style="color: violet; font-size: 40px;" align="center">MiniProject Of Jenkins</h1>
+	<h1 style="color: red; font-size: 40px;" align="center">step1:Git Hub integration for Code</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">step2:Maven Integration for Build</h1>
+	<h1 style="color: pink; font-size: 40px;" align="center">step3:Sonarqube Integration for CQA(code quality analysis)</h1>
+	<h1 style="color: yellow; font-size: 40px;" align="center">step4:Nexus Integration for uploading the Build artifacts into Nexus</h1>
+        <h1 style="color: orange; font-size: 40px;" align="center">step5:Tomcat Integration for Deploying the Application</h1>
+        
          
 	
 	
